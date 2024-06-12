@@ -1,0 +1,101 @@
+[
+    {
+        "schoolId": "1777906882233634816",
+        "schoolName": "A学校",
+        "list": [
+            {
+                "buildId": "1777941047138193408",
+                "buildName": "教师办公室A栋",
+                "list": [
+                    {
+                        "floorId": "1777941047192719360",
+                        "floorName": "2",
+                        "checked": false
+                    },
+                    {
+                        "floorId": "1796017184422629376",
+                        "floorName": "3",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "buildId": "1777941047293382656",
+                "buildName": "男生楼A栋",
+                "list": [
+                    {
+                        "floorId": "1777941047343714304",
+                        "floorName": "1",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "buildId": "1777941047515680768",
+                "buildName": "女生楼B栋",
+                "list": [
+                    {
+                        "floorId": "1777941047566012416",
+                        "floorName": "1",
+                        "checked": false
+                    },
+                    {
+                        "floorId": "1777941047666675712",
+                        "floorName": "2",
+                        "checked": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "schoolId": "1793831774237888512",
+        "schoolName": "B学校",
+        "list": [
+            {
+                "buildId": "1793831899530137600",
+                "buildName": "1",
+                "list": [
+                    {
+                        "floorId": "1793831979108667392",
+                        "floorName": "1",
+                        "checked": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "schoolId": "1793845617458548736",
+        "schoolName": "C学校",
+        "list": [
+            {
+                "buildId": "1793845874435166208",
+                "buildName": "1栋",
+                "list": [
+                    {
+                        "floorId": "1793845932945707008",
+                        "floorName": "1",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "buildId": "1793851530424750080",
+                "buildName": "2栋",
+                "list": [
+                    {
+                        "floorId": "1793851927247851520",
+                        "floorName": "1",
+                        "checked": false
+                    },
+                    {
+                        "floorId": "1793851954284335104",
+                        "floorName": "2",
+                        "checked": false
+                    }
+                ]
+            }
+        ]
+    }
+]
